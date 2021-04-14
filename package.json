@@ -1,0 +1,20 @@
+{
+  "name": "veeui-graph",
+  "version": "1.0.0",
+  "description": "A Graph Visualization Library",
+  "main": "./dist/veegraph.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeuidesign/veeui-graph.git"
+  },
+  "keywords": [],
+  "author": "we452366",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeuidesign/veeui-graph/issues"
+  },
+  "homepage": "https://github.com/veeuidesign/veeui-graph#readme"
+}
